@@ -77,7 +77,7 @@ function draw() {
   noStroke();
   fill(0); 
   text(
-    "Unnfortunately Andy and Karen were unable to hold class this week, nevertheless I did work in class in the morning with Peran and Connor on our projects. We helped each other a bit which made the journey worth it. This week I had created the text portion of my major project in a different file so I didn't have to mess the two together when experimenting. \n\n Click on the text!",
+    "Unfortunately Andy and Karen were unable to hold class this week, nevertheless I did work in class in the morning with Peran and Connor on our projects. We helped each other a bit which made the journey worth it. This week I had created the text portion of my major project in a different file so I didn't have to mess the two together when experimenting. \n\n Click on the text!",
     width / 2.9,
     height / 7,
     width / 3.2, // Specify the width for wrapping the text
